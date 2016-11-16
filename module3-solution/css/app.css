@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.menu-description {
+  background-color: #d3d3d3;
+}
+
+.menu-content {
+  position: relative;
+  padding: 10px;
+  margin: 5px;
+}
+
+.back-to-top {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+#menu-nav-list {
+  background-color: yellow;
+}
+}
